@@ -5,7 +5,6 @@ pipeline {
       steps {
         echo 'test'
         echo 'test'
-        echo 'sdvxc '
       }
     }
   }
